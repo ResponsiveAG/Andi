@@ -50,6 +50,9 @@
      <Compile Include="Assets\Dive\Scripts\NaturalOrientation.cs" />
      <Compile Include="Assets\Dive\Scripts\OffsetCenter.cs" />
      <Compile Include="Assets\Dive\Scripts\OpenDiveSensor.cs" />
+     <Compile Include="Assets\WebCam.cs" />
+     <None Include="Assets\Vendor\mk\Editor\ReadMe.txt" />
+     <None Include="Assets\Vendor\mk\Editor\preference.xml" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

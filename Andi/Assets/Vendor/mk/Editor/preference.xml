@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SkyBoxPreference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <apiKey />
+  <skyBoxName>Skybox_Matterhorn</skyBoxName>
+  <directory>Assets/StreetViewSkyboxes</directory>
+  <latitude>47.3810775</latitude>
+  <longitude>8.5319849</longitude>
+  <imgSize>640</imgSize>
+</SkyBoxPreference>
